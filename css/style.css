@@ -17,6 +17,7 @@
 body {
   font-family: var(--main-font);
   font-size: 14px;
+  color: var(--text-main);
 }
 
 .link {
@@ -100,7 +101,6 @@ body {
   font-weight: 700;
   line-height: 1.14;
   text-transform: uppercase;
-  color: var(--text-main);
 }
 
 .Peculiarities-text {
@@ -118,7 +118,6 @@ body {
   line-height: 1.16;
   text-align: center;
   letter-spacing: 0.03em;
-  color: var(--text-main);
 }
 
 /* MAIN */ /* section "our team" */
@@ -130,7 +129,6 @@ body {
   line-height: 1.18;
   text-align: center;
   letter-spacing: 0.03em;
-  color: var(--text-main);
 }
 
 .team-title {
@@ -186,7 +184,6 @@ body {
   line-height: 1.62;
   text-align: center;
   letter-spacing: 0.03em;
-  color: var(--text-main);
 }
 
 .button-text:hover {
@@ -200,7 +197,6 @@ body {
   font-size: 18px;
   line-height: 2;
   letter-spacing: 0.06em;
-  color: var(--text-main);
 }
 
 .card-text {
