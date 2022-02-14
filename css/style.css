@@ -60,6 +60,11 @@ body {
   color: var(--button-main);
 }
 
+.header-mail,
+.header-phone {
+  color: var(--text-secondary);
+}
+
 /* MAIN */ /* section "hero" */
 
 .hero {
@@ -192,6 +197,10 @@ body {
   font-size: 18px;
   line-height: 2;
   letter-spacing: 0.06em;
+}
+
+.card-link {
+  color: var(--text-main);
 }
 
 .card-text {
